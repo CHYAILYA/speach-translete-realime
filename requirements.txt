@@ -1,0 +1,4 @@
+speechrecognition
+googletrans==4.0.0-rc1
+langdetect
+tkintertable  # Jika menggunakan tkinter tambahan, ini bisa dihapus jika tidak diperlukan.
