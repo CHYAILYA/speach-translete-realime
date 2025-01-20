@@ -29,11 +29,6 @@ Langsung unduh file eksekusi (.exe) di folder versi:
 
 > Harap laporkan masalah atau ide tambahan melalui bagian [Issues](issues-url).
 
-Directly download the executable file (.exe) in the version folder:  
-[Download the latest version](./version/ui_translete_installer.exe)
-
----
-
 ## 📝 Changelog
 
 ### **Version 1.00**
