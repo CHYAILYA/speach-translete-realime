@@ -19,6 +19,9 @@ Directly download the executable file (.exe) in the version folder:
 
 [Download the latest version](https://drive.google.com/file/d/1GvhjL2LkxfW21JWFbL_ynG8o3KATkW64/view)
 
+chech here update realeas
+https://github.com/CHYAILYA/speach-translete-realime/releases
+
 ---
 
 ## 📝 Changelog
