@@ -11,6 +11,7 @@ pip install googletrans
 pip install langdetect
 pip install tkintertable
 ``````
+
 ## 📥 Download
 
 Langsung unduh file eksekusi (.exe) di folder versi:  
