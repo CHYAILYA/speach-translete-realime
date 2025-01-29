@@ -24,7 +24,17 @@ https://github.com/CHYAILYA/speach-translete-realime/releases
 
 ---
 
+
+Use Ctrl + C for translete teks
 ## 📝 Changelog
+
+### **Version 1.00**
+✨ Voice Translate Realtime
+📜 Get Transkrip YouTube
+🌐 Translate Script YouTube
+📌 Chat Realtime Translete
+
+---
 
 ### **Version 1.00**
 - ✨ **Translate Realtime**: Menyediakan terjemahan teks secara langsung.
