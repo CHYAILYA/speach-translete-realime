@@ -28,7 +28,7 @@ https://github.com/CHYAILYA/speach-translete-realime/releases
 Use Ctrl + C for translete teks
 ## 📝 Changelog
 
-### **Version 1.00**
+### **Version 1.01**
 ✨ Voice Translate Realtime
 📜 Get Transkrip YouTube
 🌐 Translate Script YouTube
