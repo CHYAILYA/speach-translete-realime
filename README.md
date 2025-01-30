@@ -13,7 +13,6 @@ pip install tkintertable
 ``````
 
 ## 📥 Download
-
 Langsung unduh file eksekusi (.exe) di folder versi:  
 Directly download the executable file (.exe) in the version folder:
 [Download versi terbaru](https://drive.google.com/file/d/1GvhjL2LkxfW21JWFbL_ynG8o3KATkW64/view)
