@@ -7,6 +7,7 @@ import threading
 from langdetect import detect, LangDetectException
 from tkinter import PhotoImage
 
+
 popup_file_path = "popup_text.txt"
 
 recognizer = sr.Recognizer()
